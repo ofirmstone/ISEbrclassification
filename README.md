@@ -1,6 +1,8 @@
 # Bug Report Classification - ISE Coursework Tool Building Project
 
-In my coursework, I discussed the problems of bug reports for large projects (such as in deep-learning like TensorFlow), and how machine learning techniques can assist the process of bug report classification and triage. My research, proposed solution, experiments and observations can be found in the **ISE_Task1.pdf** file within this repository.
+In my coursework, I discussed the problems of bug reports for large projects (such as in deep-learning like TensorFlow), and how machine learning techniques can assist the process of bug report classification and triage. I then built an intelligent tool for bug report classification that classifies whether a bug report is performance related or not.
+
+My research, proposed solution, experiments and observations can be found in the **ISE_Task1.pdf** file within this repository.
 
 # Requirements
 - Python 3.6+
