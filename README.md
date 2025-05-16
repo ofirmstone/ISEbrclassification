@@ -1,4 +1,21 @@
-# Bug Report Classification - ISE Coursework Tool Building Project
+<div align="center">
+  
+# Bug Report Classification - Tool Building Project
+
+<em>Identifying performance-related bugs using machine learning</em>
+
+<img src="https://img.shields.io/github/last-commit/ofirmstone/bug-report-classification?style=flat&logo=git&logoColor=white&color=blue" alt="last-commit">
+
+<em>Built with the following tools and technologies:</em>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/NumPy-%23013243?logo=numpy&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-%23F7931E?logo=scikitlearn&logoColor=white">
+
+</div>
+
+---
 
 In my coursework, I discussed the problems of bug reports for large projects (such as in deep-learning like TensorFlow), and how machine learning techniques can assist the process of bug report classification and triage. I then built an intelligent tool for bug report classification that classifies whether a bug report is performance related or not.
 
