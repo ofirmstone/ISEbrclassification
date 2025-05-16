@@ -26,12 +26,12 @@ My research, proposed solution, experiments and observations can be found in the
 ## Dependencies
 - Python 3.6+
 - Required packages:
-```bash
-pandas
-numpy
-scikit-learn
-nltk
-```
+  ```bash
+  pandas
+  numpy
+  scikit-learn
+  nltk
+  ```
 
 ## How to replicate the test results
 
